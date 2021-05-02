@@ -1,0 +1,7 @@
+nltk==3.5
+wordcloud==1.8.1
+joblib==0.17.0
+streamlit==0.80.0
+matplotlib==3.4.1
+Sastrawi==1.0.1
+python==3.8.5
